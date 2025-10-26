@@ -38,7 +38,6 @@
       "cStandard": "c11",
       "cppStandard": "c++17",
       "intelliSenseMode": "msvc-x64",
-      "compileCommands": "${workspaceFolder}/build/compile_commands.json",
       "browse": {
         "path": [
           "${workspaceFolder}/include",
